@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+h2{
+    color: blue;
+}
+h3{
+    color: green;
+}
+
+p{
+    color: black;
+}
+body {font-family: "Times New Roman", Georgia, Serif; }
+body { background-color: rgb(220, 149, 49); }
